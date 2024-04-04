@@ -3,8 +3,8 @@
 
 <table>
   <tr>
-    <td align="left"><img src="https://github.com/raushan6760/Crypto-Simulator/assets/101269000/31c83e1f-36be-47d3-9028-f0ae8df5e2ef" alt="Image 1"></td>
-    <td align="right"><img src="https://github.com/raushan6760/Crypto-Simulator/assets/101269000/aef434bd-62ab-4b18-aca6-40b6fb624c4e" alt="Image 2"></td>
+<!--     <td align="left"><img src="https://github.com/raushan6760/Crypto-Simulator/assets/101269000/31c83e1f-36be-47d3-9028-f0ae8df5e2ef" alt="Image 1"></td>
+    <td align="right"><img src="https://github.com/raushan6760/Crypto-Simulator/assets/101269000/aef434bd-62ab-4b18-aca6-40b6fb624c4e" alt="Image 2"></td> -->
     <td align="right"><img src="https://github.com/raushan6760/Crypto-Simulator/assets/101269000/5d83979e-31da-4939-a923-bbe195267dec" alt="Image 2"></td>
   </tr>
 </table>
